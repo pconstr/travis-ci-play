@@ -6,5 +6,5 @@
   },
   "scripts": {
     "test": "echo 'OK'; true"
-t  }
+  }
 }
